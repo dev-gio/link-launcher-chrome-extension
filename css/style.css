@@ -47,6 +47,7 @@ img {
 
 .link-container:hover, .popup-header {
     background: #E8F1FD;
+    cursor: pointer;
 }
 
 a:link, a:visited {

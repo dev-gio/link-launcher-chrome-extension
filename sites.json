@@ -1,0 +1,62 @@
+[
+    {
+        "title":"Visual Studio Keyboard Shortcut",
+        "url":"https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf"
+    },
+    {
+        "title":"VS User Snippet Generator",
+        "url":"https://snippet-generator.app/"
+    },
+    {
+        "title":"README Editor",
+        "url":"https://stackedit.io/app"
+    },
+    {
+        "title":"Picsum (Random Image API)",
+        "url":"https://picsum.photos/images"
+    },
+    {
+        "title":"Lorem Ipsum Text Generator",
+        "url":"https://loremipsum.io/"
+    },
+    {
+        "title":"Code Screenshot",
+        "url":"https://carbon.now.sh/"
+    },
+    {
+        "title":"Color Tool",
+        "url":"https://www.hexcolortool.com/"
+    },
+    {
+        "title":"Color Shades",
+        "url":"https://copypalette.netlify.com/"
+    },
+    {
+        "title":"Flexbox Cheatsheet",
+        "url":"http://flexbox.malven.co/"
+    },
+    {
+        "title":"Javascript Obfuscator",
+        "url":"https://javascriptobfuscator.com/"
+    },
+    {
+        "title":"Minify",
+        "url":"https://www.minifier.org/"
+    },
+    {
+        "title":"Fake Mail Generator",
+        "url":"http://www.fakemailgenerator.com/"
+    },
+    {
+        "title":"jQuery to Vanilla Guide",
+        "url":"https://gist.github.com/joyrexus/7307312"
+    },
+    {
+        "title":"jQuery to Vanilla JS Cheatsheet",
+        "url":"https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/"
+    },
+    {
+        "title":"Plain JS",
+        "url":"https://plainjs.com/"
+    }
+]
