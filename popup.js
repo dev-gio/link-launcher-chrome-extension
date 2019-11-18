@@ -4,8 +4,11 @@ function linkEvent() {
     Array.from(links).forEach(link => {
         link.addEventListener('click', function(event) {
             let href = link.querySelector('span').getAttribute("data-url");
-            console.log(href);
-            window.open(href, '_blank');
+
+            // chrome.windows.create({ url: href, "incognito": true });
+            chrome.windows.getCurrent(function(w) {
+                chrome.tabs.create({ "url": href});
+            });
         });
     });
 }
